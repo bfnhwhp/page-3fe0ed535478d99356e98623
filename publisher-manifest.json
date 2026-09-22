@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e4665d2c22810370f5a167b",
+  "owner": "bfnhwhp",
+  "repo": "page-3fe0ed535478d99356e98623",
+  "title": "惊叹号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fe0ed535478d99356e98623",
+      "a": "惊叹号",
+      "b": "2027官方最新地址导航",
+      "entity": "惊叹号",
+      "brand": "惊叹号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d71c233336bacea7a679d4a7c3a0f910098176ff83969f81f6330cf882048e72",
+      "content": {
+        "primary_entity": "惊叹号",
+        "keyword1": "惊叹号",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，专注为国内用户提供跨境网络加速体验，围绕惊叹号套餐、客户端与订阅配置展开说明，帮助不同设备和使用场景的用户找到合适的上网加速方案。",
+          "AI_HERO_SUBTITLE": "惊叹号加速，稳定好用的网络选择",
+          "AI_HERO_INTRO": "惊叹号是一款面向日常办公、流媒体与游戏场景的网络加速服务，提供基础版、旗舰版和团队版三档套餐，覆盖从个人设备到小型团队的多种需求。用户可参考各套餐的流量与设备数量差异，结合自身使用强度选择。",
+          "AI_VISUAL_TITLE": "惊叹号加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活可选",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅配置",
+          "AI_FEATURES_TITLE": "选择惊叹号的三个理由",
+          "AI_FEATURES_INTRO": "套餐差异主要体现在流量、设备数量与线路规格，选之前先理清自己的设备和用量。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度浏览，旗舰版300GB适合多设备，团队版1000GB满足多人分享。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台。若手机、电脑、平板同时在线，建议从旗舰版起步。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "各套餐均提供月付与年付选项，年付价格约为月付的十个月费用，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "不同系统选择对应客户端，订阅导入方式以客户端内的说明为准。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版兼顾流媒体与游戏，团队版面向多人共享与企业路由。按流量、设备数和线路需求挑选即可。",
+          "AI_GUIDE_TITLE": "三步开始使用惊叹号",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，每个环节都按自己的设备情况来操作。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据月流量需求、同时在线设备数量和是否需要流媒体或游戏加速，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认自己的操作系统和设备类型，在客户端页面找到对应的下载与安装说明，留意系统版本要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "安装客户端后，依照客户端文档导入订阅信息，完成节点选择与连接测试，即可开始加速使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数量和流量习惯选择惊叹号套餐，按步骤配置订阅，即可体验稳定的跨境网络加速。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "可以。基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版则配备 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版均可按年付，旗舰版年付 ¥350，团队版年付 ¥850，比月付更划算。",
+          "AI_FAQ_ANSWER_4": "选择设备对应的客户端，下载后导入订阅链接，即可开始使用。具体配置步骤请参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版额外配备专属客户经理服务，响应更及时。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁在各套餐中有何差异？",
+          "AI_FAQ_QUESTION_3": "是否支持按年付费？",
+          "AI_FAQ_QUESTION_4": "如何在设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "遇到问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ahqdlq.cn",
+    "host": "ahqdlq.cn"
+  },
+  "file_hashes": {
+    "index.html": "7417848b28025983cec9879261cdf7157107080af5af1c3acd1dd95722118f98",
+    "sitemap.xml": "2ba6b9a596aee851931c142be99a3c04a29e28a6d62284dcc8d6441c63b60698",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "87525ffdd54408b8405fde70d9f8986a9e002f013a117cacd5d55a0487a7c95a",
+    "robots.txt": "48354ea5d423ac9eccd106ed6bdb42547d6bae4849daf6a90bd789355b5349d6",
+    "35f96a282de13e52b16a9e847902a322.txt": "eb946df6c1c49adfd8a72266944c07dbab8dc68f402aacb18f5cdbadaf203ec2"
+  },
+  "revision": "c5871e8e0cf186955eb1f6ffc5a334c332482cf8754ae2c0cd467b70adc31dcc"
+}
